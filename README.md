@@ -35,9 +35,6 @@ run jupyter notebook
 
  A PIXEL IS TO A DIGITAL IMAGE WHAT AN ATOM IS TO AN ELEMENT OR WHAT A CELL IS TO THE BODY…..right?
 
-```
-Give an example
-```
 
 ### PIXEL PROPERTIES
 
