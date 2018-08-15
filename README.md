@@ -48,26 +48,25 @@ Give an example
 
 ### RED, GREEN, BLUE
 
-![alt text][pixelbits]
+![RGB(255, 255, 0)][pixelbits]
 
 ![alt_text][rgbpixels]
 
 
 ### 8-BIT BINARY DIGIT CALCULATION
 
-![alt_text][signit]
+![Each color channel 8 bit binary digit][signit]
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ### HOW STEGANOGRAPHY OCCURS BEHIND THE SCENES
 
-![alt_text][imagesibits]
+![left is the strongest and the right side is the weakest][imagesibits]
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Discovery
 
-![alt_text][colorchannels]
+![An image is a stack of the 3 color channels][colorchannels]
 
 ## License
 
